@@ -13,16 +13,11 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
  
  👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
  
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
  
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
 
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
-
-
 ---
-
 
 ### Tech & Tools Preference
 
